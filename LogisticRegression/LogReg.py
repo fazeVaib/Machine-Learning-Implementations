@@ -50,4 +50,4 @@ plt.xlabel("Iterations")
 plt.ylabel('Cost')
 plt.show()
 
-print(sigmoid([[1, 45, 85]] @ theta.T))
+# print(sigmoid([[1, 45, 85]] @ theta.T))
