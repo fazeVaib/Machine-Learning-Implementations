@@ -13,3 +13,7 @@ Implemented popular Machine Learning techniques and Algorithms
 
 * [Without Regularization along with Gradient Descent](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/LogisticRegression/LogReg.py)
 * [With Regularization using Advanced Optimization from Scipy (in iPython notebook)](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/LogisticRegression/RegulareizedLogReg.ipynb)
+
+### Multiclass Classification
+
+* [Classifying Digits [0-9] using pictures as datasets (using Logistic Regression with Regularization)](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/MultiClassificationLR/Multiclass_classification.ipynb)
