@@ -17,3 +17,7 @@ Implemented popular Machine Learning techniques and Algorithms
 ### Multiclass Classification
 
 * [Classifying Digits [0-9] using pictures as datasets (using Logistic Regression with Regularization)](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/MultiClassificationLR/Multiclass_classification.ipynb)
+
+### Digit Classification using Neural Network
+
+* [Classifying digits using a single hidden layer Neural Network made from Scratch](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/NeuralNetwork/NeuralNetwork.ipynb)
