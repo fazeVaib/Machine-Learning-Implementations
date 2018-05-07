@@ -27,5 +27,5 @@ Implemented popular Machine Learning techniques and Algorithms
 
 * Implemented on 4 different datasets
 * Includes linear as well as RBF (Gaussian) kernel
-* Consists of a spam classifier too on preprocessed data with 1899 words in dictionary (from Coursera ML course)
+* Consists of a spam classifier too on preprocessed data with 1899 words in dictionary (from Coursera ML course)<br>
 [Click to Open](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/SVM/SVM.ipynb)
