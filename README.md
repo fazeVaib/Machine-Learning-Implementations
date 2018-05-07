@@ -21,3 +21,11 @@ Implemented popular Machine Learning techniques and Algorithms
 ### Digit Classification using Neural Network
 
 * [Classifying digits using a single hidden layer Neural Network made from Scratch](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/NeuralNetwork/NeuralNetwork.ipynb)
+
+### Support Vector Machine (SVM)
+
+
+* Implemented on 4 different datasets
+* Includes linear as well as RBF (Gaussian) kernel
+* Consists of a spam classifier too on preprocessed data with 1899 words in dictionary (from Coursera ML course)
+[Click to Open](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/SVM/SVM.ipynb)
