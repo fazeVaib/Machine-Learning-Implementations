@@ -29,3 +29,11 @@ Implemented popular Machine Learning techniques and Algorithms
 * Includes linear as well as RBF (Gaussian) kernel
 * Consists of a spam classifier too on preprocessed data with 1899 words in dictionary (from Coursera ML course)<br>
 [Click to Open](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/SVM/SVM.ipynb)
+
+### K-Means Clustering Algorithm
+
+* [Implemented on clusting 2D data in 3 sets and Image Compression](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/K-means%20%26%20PCA/Kmeans.ipynb)
+
+### Principle Component Analysis (PCA)
+
+* [Implemented on 2D data and faces of people](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/K-means%20%26%20PCA/PCA.ipynb)
