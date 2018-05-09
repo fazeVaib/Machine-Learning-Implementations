@@ -37,3 +37,11 @@ Implemented popular Machine Learning techniques and Algorithms
 ### Principle Component Analysis (PCA)
 
 * [Implemented on 2D data and faces of people](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/K-means%20%26%20PCA/PCA.ipynb)
+
+### Anomaly Detector
+
+* [Implemented Anomaly Detection on a 2D dataset](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/Anomaly%20Detector/AnomalyDetector.ipynb)
+
+### Recommender System
+
+* [Implemented Recommender System along with Collaborative Filtering for a set of Movies](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/RecommenderSystem/RecommenderSystem.ipynb)
