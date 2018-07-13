@@ -4,7 +4,7 @@ Implemented popular Machine Learning techniques and Algorithms
 
 ## Contents
 
-### Linear Regression (using Gradient Decent)
+### Linear Regression (using Gradient Descent)
 
 * [Using 2D dataset](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/LinearRegression/main.py)
 * [using Boston Dataset (in iPython file)](https://github.com/fazeVaib/Machine-Learning-Implementations/blob/master/LinearRegression/Linear-Reg-MultiVar.ipynb)
